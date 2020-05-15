@@ -7,7 +7,6 @@ import TodosList from './components/TodosList';
 
 import 'bootstrap/dist/css/bootstrap.css';
 
-//import logo from './hamburger.png';
 function App() {
   return (
     <Router>
